@@ -1,5 +1,5 @@
-//左下角向上变大，向右变小
-//从左下角开始对比，如果大于则向右移来判断，如果小向上移判断，如果相等直接返回true
+//宸︿笅瑙掑悜涓婂彉澶э紝鍚戝彸鍙樺皬
+//浠庡乏涓嬭寮�濮嬪姣旓紝濡傛灉澶т簬鍒欏悜鍙崇Щ鏉ュ垽鏂紝濡傛灉灏忓悜涓婄Щ鍒ゆ柇锛屽鏋滅浉绛夌洿鎺ヨ繑鍥瀟rue
 class Solution {
 public:
     bool Find(int target, vector<vector<int> > array) {
